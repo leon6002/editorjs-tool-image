@@ -1,6 +1,6 @@
 {
-  "name": "@editorjs/image",
-  "version": "2.10.0",
+  "name": "editorjs-tool-image",
+  "version": "1.0.0",
   "keywords": [
     "codex editor",
     "image",
@@ -9,7 +9,7 @@
   ],
   "description": "Image Tool for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/image",
+  "repository": "https://github.com/leon6002/editorjs-tool-image",
   "files": [
     "dist"
   ],
@@ -31,8 +31,8 @@
     "lint:fix": "eslint --fix"
   },
   "author": {
-    "name": "CodeX",
-    "email": "team@ifmo.su"
+    "name": "leon6002",
+    "email": "gulongchen1@gmail.com"
   },
   "devDependencies": {
     "@codexteam/ajax": "^4.2.0",
